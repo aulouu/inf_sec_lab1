@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BugCollection sequence='0' release='' analysisTimestamp='1762852439840' version='4.9.6' timestamp='1762852425252'>
+    <Project projectName='inf_sec_lab1'>
+        <Jar>/home/runner/work/inf_sec_lab1/inf_sec_lab1/target/classes</Jar>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter/3.5.7/spring-boot-starter-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot/3.5.7/spring-boot-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/spring-context/6.2.12/spring-context-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.5.7/spring-boot-autoconfigure-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-logging/3.5.7/spring-boot-starter-logging-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/ch/qos/logback/logback-classic/1.5.20/logback-classic-1.5.20.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/ch/qos/logback/logback-core/1.5.20/logback-core-1.5.20.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.24.3/log4j-to-slf4j-2.24.3.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.3/log4j-api-2.24.3.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/slf4j/jul-to-slf4j/2.0.17/jul-to-slf4j-2.0.17.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-core/6.2.12/spring-core-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-jcl/6.2.12/spring-jcl-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/yaml/snakeyaml/2.4/snakeyaml-2.4.jar</AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/3.5.7/spring-boot-starter-tomcat-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/10.1.48/tomcat-embed-core-10.1.48.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/10.1.48/tomcat-embed-el-10.1.48.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.48/tomcat-embed-websocket-10.1.48.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-web/3.5.7/spring-boot-starter-web-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-json/3.5.7/spring-boot-starter-json-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.19.2/jackson-databind-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.19.2/jackson-annotations-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.19.2/jackson-core-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.19.2/jackson-datatype-jdk8-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.19.2/jackson-datatype-jsr310-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.19.2/jackson-module-parameter-names-2.19.2.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-web/6.2.12/spring-web-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-beans/6.2.12/spring-beans-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/io/micrometer/micrometer-observation/1.15.5/micrometer-observation-1.15.5.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/io/micrometer/micrometer-commons/1.15.5/micrometer-commons-1.15.5.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/spring-webmvc/6.2.12/spring-webmvc-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/spring-expression/6.2.12/spring-expression-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/3.5.7/spring-boot-starter-data-jpa-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/3.5.7/spring-boot-starter-jdbc-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/com/zaxxer/HikariCP/6.3.3/HikariCP-6.3.3.jar</AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-jdbc/6.2.12/spring-jdbc-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/hibernate/orm/hibernate-core/6.6.33.Final/hibernate-core-6.6.33.Final.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/data/spring-data-jpa/3.5.5/spring-data-jpa-3.5.5.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/data/spring-data-commons/3.5.5/spring-data-commons-3.5.5.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-orm/6.2.12/spring-orm-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-tx/6.2.12/spring-tx-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/spring-aspects/6.2.12/spring-aspects-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/aspectj/aspectjweaver/1.9.24/aspectjweaver-1.9.24.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/boot/spring-boot-starter-security/3.5.7/spring-boot-starter-security-3.5.7.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/org/springframework/spring-aop/6.2.12/spring-aop-6.2.12.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/security/spring-security-config/6.5.6/spring-security-config-6.5.6.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/security/spring-security-core/6.5.6/spring-security-core-6.5.6.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/security/spring-security-crypto/6.5.6/spring-security-crypto-6.5.6.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>
+            /home/runner/.m2/repository/org/springframework/security/spring-security-web/6.5.6/spring-security-web-6.5.6.jar
+        </AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/io/jsonwebtoken/jjwt/0.12.6/jjwt-0.12.6.jar</AuxClasspathEntry>
+        <AuxClasspathEntry>/home/runner/.m2/repository/io/jsonwebtoken/jjwt-api/0.12.6/jjwt-api-0.12.6.jar
+        </AuxClasspathEntry>
+        <SrcDir>/home/runner/work/inf_sec_lab1/inf_sec_lab1/src/main/java</SrcDir>
+        <SrcDir>/home/runner/work/inf_sec_lab1/inf_sec_lab1/target/generated-sources/annotations</SrcDir>
+        <WrkDir>/home/runner/work/inf_sec_lab1/inf_sec_lab1/target</WrkDir>
+    </Project>
+    <Errors missingClasses='0' errors='0'></Errors>
+    <FindBugsSummary num_packages='8' total_classes='23' total_size='430' clock_seconds='3.57' referenced_classes='193'
+                     vm_version='21.0.9+10-LTS' total_bugs='0' java_version='21.0.9' gc_seconds='0.03'
+                     alloc_mbytes='512.00' cpu_seconds='10.94' peak_mbytes='236.09'
+                     timestamp='Tue, 11 Nov 2025 09:13:45 +0000'>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/InfSecLab1Application.java' size='6' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/configuration/SecurityConfiguration.java' size='32'
+                   bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/controller/AuthController.java' size='8' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/controller/PetController.java' size='9' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/dto/JwtAuthenticationResponse.java' size='29'
+                   bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/dto/PetDto.java' size='31' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/dto/SignInRequest.java' size='27' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/dto/SignUpRequest.java' size='33' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/entity/Pet.java' size='51' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/entity/Role.java' size='12' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/entity/User.java' size='41' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/filter/JwtAuthenticationFilter.java' size='31'
+                   bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/repository/PetRepository.java' size='2' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/repository/UserRepository.java' size='2' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/service/AuthenticationService.java' size='26'
+                   bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/service/JwtService.java' size='41' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/service/PetService.java' size='22' bugCount='0'></FileStats>
+        <FileStats path='itmo/aulouu/inf/sec/lab1/service/UserService.java' size='27' bugCount='0'></FileStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1' total_bugs='0' total_size='6' total_types='1'>
+            <ClassStats bugs='0' size='6' interface='false' sourceFile='InfSecLab1Application.java'
+                        class='itmo.aulouu.inf.sec.lab1.InfSecLab1Application'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.configuration' total_bugs='0' total_size='32' total_types='1'>
+            <ClassStats bugs='0' size='32' interface='false' sourceFile='SecurityConfiguration.java'
+                        class='itmo.aulouu.inf.sec.lab1.configuration.SecurityConfiguration'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.controller' total_bugs='0' total_size='17' total_types='2'>
+            <ClassStats bugs='0' size='8' interface='false' sourceFile='AuthController.java'
+                        class='itmo.aulouu.inf.sec.lab1.controller.AuthController'></ClassStats>
+            <ClassStats bugs='0' size='9' interface='false' sourceFile='PetController.java'
+                        class='itmo.aulouu.inf.sec.lab1.controller.PetController'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.dto' total_bugs='0' total_size='120' total_types='7'>
+            <ClassStats bugs='0' size='20' interface='false' sourceFile='JwtAuthenticationResponse.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.JwtAuthenticationResponse'></ClassStats>
+            <ClassStats bugs='0' size='9' interface='false' sourceFile='JwtAuthenticationResponse.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.JwtAuthenticationResponse$JwtAuthenticationResponseBuilder'></ClassStats>
+            <ClassStats bugs='0' size='31' interface='false' sourceFile='PetDto.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.PetDto'></ClassStats>
+            <ClassStats bugs='0' size='18' interface='false' sourceFile='SignInRequest.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.SignInRequest'></ClassStats>
+            <ClassStats bugs='0' size='9' interface='false' sourceFile='SignInRequest.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.SignInRequest$SignInRequestBuilder'></ClassStats>
+            <ClassStats bugs='0' size='22' interface='false' sourceFile='SignUpRequest.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.SignUpRequest'></ClassStats>
+            <ClassStats bugs='0' size='11' interface='false' sourceFile='SignUpRequest.java'
+                        class='itmo.aulouu.inf.sec.lab1.dto.SignUpRequest$SignUpRequestBuilder'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.entity' total_bugs='0' total_size='104' total_types='5'>
+            <ClassStats bugs='0' size='34' interface='false' sourceFile='Pet.java'
+                        class='itmo.aulouu.inf.sec.lab1.entity.Pet'></ClassStats>
+            <ClassStats bugs='0' size='17' interface='false' sourceFile='Pet.java'
+                        class='itmo.aulouu.inf.sec.lab1.entity.Pet$PetBuilder'></ClassStats>
+            <ClassStats bugs='0' size='12' interface='false' sourceFile='Role.java'
+                        class='itmo.aulouu.inf.sec.lab1.entity.Role'></ClassStats>
+            <ClassStats bugs='0' size='28' interface='false' sourceFile='User.java'
+                        class='itmo.aulouu.inf.sec.lab1.entity.User'></ClassStats>
+            <ClassStats bugs='0' size='13' interface='false' sourceFile='User.java'
+                        class='itmo.aulouu.inf.sec.lab1.entity.User$UserBuilder'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.filter' total_bugs='0' total_size='31' total_types='1'>
+            <ClassStats bugs='0' size='31' interface='false' sourceFile='JwtAuthenticationFilter.java'
+                        class='itmo.aulouu.inf.sec.lab1.filter.JwtAuthenticationFilter'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.repository' total_bugs='0' total_size='4' total_types='2'>
+            <ClassStats bugs='0' size='2' interface='true' sourceFile='PetRepository.java'
+                        class='itmo.aulouu.inf.sec.lab1.repository.PetRepository'></ClassStats>
+            <ClassStats bugs='0' size='2' interface='true' sourceFile='UserRepository.java'
+                        class='itmo.aulouu.inf.sec.lab1.repository.UserRepository'></ClassStats>
+        </PackageStats>
+        <PackageStats package='itmo.aulouu.inf.sec.lab1.service' total_bugs='0' total_size='116' total_types='4'>
+            <ClassStats bugs='0' size='26' interface='false' sourceFile='AuthenticationService.java'
+                        class='itmo.aulouu.inf.sec.lab1.service.AuthenticationService'></ClassStats>
+            <ClassStats bugs='0' size='41' interface='false' sourceFile='JwtService.java'
+                        class='itmo.aulouu.inf.sec.lab1.service.JwtService'></ClassStats>
+            <ClassStats bugs='0' size='22' interface='false' sourceFile='PetService.java'
+                        class='itmo.aulouu.inf.sec.lab1.service.PetService'></ClassStats>
+            <ClassStats bugs='0' size='27' interface='false' sourceFile='UserService.java'
+                        class='itmo.aulouu.inf.sec.lab1.service.UserService'></ClassStats>
+        </PackageStats>
+        <FindBugsProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='733' totalMilliseconds='929'
+                          name='edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine'
+                          maxMicrosecondsPerInvocation='34061' standardDeviationMicrosecondsPerInvocation='3309'
+                          invocations='1268'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='417' totalMilliseconds='524'
+                          name='edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine'
+                          maxMicrosecondsPerInvocation='21345' standardDeviationMicrosecondsPerInvocation='1193'
+                          invocations='1256'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='793' totalMilliseconds='153'
+                          name='edu.umd.cs.findbugs.detect.FieldItemSummary' maxMicrosecondsPerInvocation='15100'
+                          standardDeviationMicrosecondsPerInvocation='2056' invocations='193'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='616' totalMilliseconds='118'
+                          name='edu.umd.cs.findbugs.detect.FindNoSideEffectMethods' maxMicrosecondsPerInvocation='9037'
+                          standardDeviationMicrosecondsPerInvocation='1335' invocations='193'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='225' totalMilliseconds='70'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine'
+                          maxMicrosecondsPerInvocation='19265' standardDeviationMicrosecondsPerInvocation='1155'
+                          invocations='313'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='199' totalMilliseconds='64'
+                          name='edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory' maxMicrosecondsPerInvocation='3933'
+                          standardDeviationMicrosecondsPerInvocation='360' invocations='326'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='44' totalMilliseconds='53'
+                          name='edu.umd.cs.findbugs.util.TopologicalSort' maxMicrosecondsPerInvocation='1864'
+                          standardDeviationMicrosecondsPerInvocation='101' invocations='1205'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='306' totalMilliseconds='48'
+                          name='edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder'
+                          maxMicrosecondsPerInvocation='3032' standardDeviationMicrosecondsPerInvocation='500'
+                          invocations='159'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='294' totalMilliseconds='46'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory'
+                          maxMicrosecondsPerInvocation='3441' standardDeviationMicrosecondsPerInvocation='516'
+                          invocations='159'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='242' totalMilliseconds='46'
+                          name='edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers'
+                          maxMicrosecondsPerInvocation='3003' standardDeviationMicrosecondsPerInvocation='531'
+                          invocations='193'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='279' totalMilliseconds='44'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory'
+                          maxMicrosecondsPerInvocation='10426' standardDeviationMicrosecondsPerInvocation='871'
+                          invocations='159'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='227' totalMilliseconds='43'
+                          name='edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures'
+                          maxMicrosecondsPerInvocation='5025' standardDeviationMicrosecondsPerInvocation='589'
+                          invocations='193'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='257' totalMilliseconds='41'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory'
+                          maxMicrosecondsPerInvocation='25503' standardDeviationMicrosecondsPerInvocation='1999'
+                          invocations='161'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='1692' totalMilliseconds='38'
+                          name='edu.umd.cs.findbugs.detect.FindDeadLocalStores' maxMicrosecondsPerInvocation='28087'
+                          standardDeviationMicrosecondsPerInvocation='5688' invocations='23'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='228' totalMilliseconds='36'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory'
+                          maxMicrosecondsPerInvocation='6896' standardDeviationMicrosecondsPerInvocation='576'
+                          invocations='161'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='224' totalMilliseconds='35'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory'
+                          maxMicrosecondsPerInvocation='6597' standardDeviationMicrosecondsPerInvocation='562'
+                          invocations='159'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='183' totalMilliseconds='35'
+                          name='edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase'
+                          maxMicrosecondsPerInvocation='2328' standardDeviationMicrosecondsPerInvocation='330'
+                          invocations='193'></ClassProfile>
+        </FindBugsProfile>
+    </FindBugsSummary>
+    <ClassFeatures></ClassFeatures>
+    <History></History>
+</BugCollection>
