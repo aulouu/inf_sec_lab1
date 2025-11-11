@@ -3,13 +3,13 @@ package itmo.aulouu.inf.sec.lab1.dto;
 import itmo.aulouu.inf.sec.lab1.entity.Role;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
+import lombok.*;
 
 @Data
-@Builder
+@Builder(toBuilder = true)
+@Getter
 @AllArgsConstructor
+@NoArgsConstructor
 public class SignUpRequest {
     private String username;
     private String password;
