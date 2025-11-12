@@ -138,11 +138,8 @@ Authorization: Bearer <JWT>
 # Результат SpotBugs
 [XML файл](spotbugsXml.xml)
 ```xml
-<FindBugsSummary 
-        num_packages="8" total_classes="23" total_size="430" 
-        clock_seconds="3.57" referenced_classes="193" 
-        vm_version="21.0.9+10-LTS" total_bugs="0" 
-        java_version="21.0.9" gc_seconds="0.03" 
-        alloc_mbytes="512.00" cpu_seconds="10.94" 
-        peak_mbytes="236.09" timestamp="Tue, 11 Nov 2025 09:13:45 +0000">
+<FindBugsSummary num_packages='8' total_classes='23' total_size='430' clock_seconds='3.40' referenced_classes='193'
+                 vm_version='21.0.9+10-LTS' total_bugs='0' java_version='21.0.9' gc_seconds='0.03'
+                 alloc_mbytes='512.00' cpu_seconds='11.06' peak_mbytes='233.71'
+                 timestamp='Tue, 11 Nov 2025 10:00:26 +0000'>
 ```
